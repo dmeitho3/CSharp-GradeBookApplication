@@ -11,14 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="Enums\GradeBook.Enums" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Include="Enums\GradeBook.Enums" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
   </ItemGroup>
 

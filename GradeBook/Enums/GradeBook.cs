@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GradeBook.Enums
 {
-    class GradeBookT_ype
+    public enum GradeBookT_ype
     {
         Standard,
         Ranked,
