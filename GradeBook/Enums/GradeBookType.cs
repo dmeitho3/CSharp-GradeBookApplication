@@ -1,14 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
 
 namespace GradeBook.Enums
 {
-    public enum GradeBookT_ype
+    public enum GradeBookType
     {
         Standard,
-        Ranked,
-        OneToFour,
-        SixPoint
+            Ranked,
+            Esnu,
+            OneToFour,
+            SixPoint
     }
 }
