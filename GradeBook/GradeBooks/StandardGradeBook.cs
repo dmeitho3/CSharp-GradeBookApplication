@@ -7,7 +7,7 @@ namespace GradeBook.GradeBooks
     class StandardGradeBook : BaseGradeBook
 
     {
-      StandardGradeBook(string name)
+    public  StandardGradeBook(string name)
         :base(name)
         {
 
